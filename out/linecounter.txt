@@ -1,0 +1,133 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-10-16 22:41:11
+count workspace : e:\Professional_Files\DevxHub\devxhub-how-we-work
+total files : 108
+total code lines : 64135
+total comment lines : 402
+total blank lines : 11303
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .js|           2454|            356|            457|    3.8|
+   |            .md|             34|              2|             13|  0.053|
+   |          .json|          33642|              0|              2|     52|
+   |           .vue|           1692|             39|             69|    2.6|
+   |           .svg|          23965|              0|           2952|     37|
+   |          .lock|           2097|              0|           7762|    3.3|
+   |               |             80|              4|             28|   0.12|
+   |          .html|            131|              1|             10|   0.20|
+   |           .yml|             40|              0|             10|  0.062|
+   -------------------------------------------------------------------------
+.editorconfig, code is 11, comment is 0, blank is 2.
+.eslintcache, code is 1, comment is 0, blank is 0.
+.eslintrc.js, code is 18, comment is 1, blank is 1.
+.github\workflows\ci.yml, code is 40, comment is 0, blank is 10.
+.gitignore, code is 64, comment is 4, blank is 26.
+.nuxt\App.js, code is 165, comment is 11, blank is 32.
+.nuxt\axios.js, code is 148, comment is 15, blank is 30.
+.nuxt\client.js, code is 612, comment is 90, blank is 122.
+.nuxt\components\index.js, code is 37, comment is 1, blank is 5.
+.nuxt\components\nuxt-build-indicator.vue, code is 134, comment is 5, blank is 5.
+.nuxt\components\nuxt-child.js, code is 103, comment is 5, blank is 14.
+.nuxt\components\nuxt-error.vue, code is 93, comment is 0, blank is 5.
+.nuxt\components\nuxt-link.client.js, code is 87, comment is 3, blank is 8.
+.nuxt\components\nuxt-link.server.js, code is 15, comment is 0, blank is 1.
+.nuxt\components\nuxt-loading.vue, code is 161, comment is 7, blank is 9.
+.nuxt\components\nuxt.js, code is 79, comment is 9, blank is 13.
+.nuxt\components\plugin.js, code is 6, comment is 0, blank is 1.
+.nuxt\components\readme.md, code is 16, comment is 1, blank is 4.
+.nuxt\empty.js, code is 0, comment is 1, blank is 0.
+.nuxt\index.js, code is 178, comment is 28, blank is 32.
+.nuxt\jsonp.js, code is 52, comment is 17, blank is 15.
+.nuxt\layouts\default.vue, code is 3, comment is 0, blank is 0.
+.nuxt\loading.html, code is 99, comment is 1, blank is 10.
+.nuxt\middleware.js, code is 2, comment is 0, blank is 1.
+.nuxt\mixins\fetch.client.js, code is 71, comment is 3, blank is 16.
+.nuxt\mixins\fetch.server.js, code is 51, comment is 6, blank is 13.
+.nuxt\router.js, code is 42, comment is 1, blank is 10.
+.nuxt\router.scrollBehavior.js, code is 54, comment is 13, blank is 9.
+.nuxt\routes.json, code is 14, comment is 0, blank is 0.
+.nuxt\server.js, code is 203, comment is 48, blank is 38.
+.nuxt\utils.js, code is 458, comment is 93, blank is 83.
+.nuxt\vetur\tags.json, code is 38, comment is 0, blank is 0.
+.nuxt\views\app.template.html, code is 9, comment is 0, blank is 0.
+.nuxt\views\error.html, code is 23, comment is 0, blank is 0.
+.prettierrc, code is 4, comment is 0, blank is 0.
+assets\img\analysis.svg, code is 63, comment is 0, blank is 9.
+assets\img\design.svg, code is 715, comment is 0, blank is 24.
+assets\img\development.svg, code is 776, comment is 0, blank is 27.
+assets\img\Group 1393.svg, code is 567, comment is 0, blank is 20.
+assets\img\Group 1394.svg, code is 459, comment is 0, blank is 62.
+assets\img\Group 1395.svg, code is 1562, comment is 0, blank is 11.
+assets\img\Group 1396.svg, code is 477, comment is 0, blank is 58.
+assets\img\Group 1397.svg, code is 483, comment is 0, blank is 70.
+assets\img\planning.svg, code is 232, comment is 0, blank is 53.
+assets\img\testing.svg, code is 308, comment is 0, blank is 30.
+assets\svg\analysis.svg, code is 63, comment is 0, blank is 9.
+assets\svg\completed.svg, code is 1562, comment is 0, blank is 11.
+assets\svg\deployment.svg, code is 477, comment is 0, blank is 58.
+assets\svg\design.svg, code is 715, comment is 0, blank is 24.
+assets\svg\development.svg, code is 776, comment is 0, blank is 27.
+assets\svg\feedback.svg, code is 567, comment is 0, blank is 20.
+assets\svg\fixing.svg, code is 459, comment is 0, blank is 62.
+assets\svg\maintanence.svg, code is 483, comment is 0, blank is 70.
+assets\svg\planning.svg, code is 232, comment is 0, blank is 53.
+assets\svg\right-sign.svg, code is 1, comment is 0, blank is 0.
+assets\svg\testing.svg, code is 308, comment is 0, blank is 30.
+assets\svg\Web Development\Icon\webdev-1.svg, code is 34, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-10.svg, code is 115, comment is 0, blank is 8.
+assets\svg\Web Development\Icon\webdev-11.svg, code is 61, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-12.svg, code is 27, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-2.svg, code is 20, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-3.svg, code is 23, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-5.svg, code is 27, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-6.svg, code is 20, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-7.svg, code is 16, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-8.svg, code is 23, comment is 0, blank is 0.
+assets\svg\Web Development\Icon\webdev-9.svg, code is 21, comment is 0, blank is 0.
+assets\svg\Web Development\techstack.svg, code is 471, comment is 0, blank is 39.
+assets\svg\Web Development\webdev-1.svg, code is 1893, comment is 0, blank is 308.
+assets\svg\Web Development\webdev-2.svg, code is 639, comment is 0, blank is 134.
+assets\svg\Web Development\webdev-3.svg, code is 1360, comment is 0, blank is 250.
+assets\svg\Web Development\webdev-4.svg, code is 526, comment is 0, blank is 121.
+assets\svg\Web Development\wespecial-1.svg, code is 231, comment is 0, blank is 14.
+assets\svg\Web Development\wespecial-10.svg, code is 1445, comment is 0, blank is 151.
+assets\svg\Web Development\wespecial-11.svg, code is 1124, comment is 0, blank is 265.
+assets\svg\Web Development\wespecial-12.svg, code is 604, comment is 0, blank is 140.
+assets\svg\Web Development\wespecial-2.svg, code is 859, comment is 0, blank is 185.
+assets\svg\Web Development\wespecial-3.svg, code is 576, comment is 0, blank is 119.
+assets\svg\Web Development\wespecial-4.svg, code is 550, comment is 0, blank is 129.
+assets\svg\Web Development\wespecial-5.svg, code is 426, comment is 0, blank is 98.
+assets\svg\Web Development\wespecial-6.svg, code is 305, comment is 0, blank is 31.
+assets\svg\Web Development\wespecial-7.svg, code is 879, comment is 0, blank is 201.
+assets\svg\Web Development\wespecial-8.svg, code is 269, comment is 0, blank is 28.
+assets\svg\Web Development\wespecial-9.svg, code is 136, comment is 0, blank is 3.
+components\Analysis.vue, code is 74, comment is 0, blank is 0.
+components\Design.vue, code is 436, comment is 0, blank is 20.
+components\Development.vue, code is 34, comment is 1, blank is 0.
+components\How.vue, code is 72, comment is 0, blank is 2.
+components\Planning.vue, code is 77, comment is 22, blank is 2.
+components\Testing.vue, code is 51, comment is 0, blank is 3.
+components\webdev\DevHeader.vue, code is 66, comment is 0, blank is 2.
+components\webdev\DevService.vue, code is 97, comment is 0, blank is 5.
+components\webdev\TechnologyStack.vue, code is 81, comment is 0, blank is 4.
+components\webdev\WebDevCon.vue, code is 20, comment is 0, blank is 0.
+components\webdev\WebDevlop.vue, code is 104, comment is 0, blank is 3.
+components\webdev\WeSpecialize.vue, code is 105, comment is 0, blank is 5.
+jsconfig.json, code is 12, comment is 0, blank is 0.
+nuxt.config.js, code is 40, comment is 10, blank is 11.
+package-lock.json, code is 33546, comment is 0, blank is 2.
+package.json, code is 32, comment is 0, blank is 0.
+pages\index.vue, code is 24, comment is 4, blank is 3.
+pages\web-development.vue, code is 60, comment is 0, blank is 1.
+plugins\vue-typed-js.js, code is 3, comment is 0, blank is 1.
+README.md, code is 16, comment is 1, blank is 8.
+static\favicon.ico, it is a binary file.
+store\README.md, code is 2, comment is 0, blank is 1.
+tailwind.config.js, code is 30, comment is 1, blank is 1.
+yarn.lock, code is 2097, comment is 0, blank is 7762.
+===============================================================================

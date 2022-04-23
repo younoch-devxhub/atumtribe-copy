@@ -1,0 +1,43 @@
+{
+  "name": "how-we-work-devxhub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
+    "lint": "yarn lint:js"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@neneos/nuxt-animate.css": "^0.0.1",
+    "@nuxtjs/axios": "^5.13.6",
+    "@vue/composition-api": "^1.2.4",
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "vue-typed-js": "^0.1.2",
+    "vue-typical": "^2.1.0",
+    "vue-window-size": "0.6.2"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.14.7",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@nuxt/image": "^0.6.0",
+    "@nuxtjs/eslint-config": "^6.0.1",
+    "@nuxtjs/eslint-module": "^3.0.2",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "@nuxtjs/google-fonts": "^1.3.0",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "autoprefixer": "^9.8.8",
+    "nuxt-animejs": "^1.2.2",
+    "postcss": "^7.0.39",
+    "prettier": "^2.3.2",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.16",
+    "vue-carousel": "^0.18.0"
+  }
+}
